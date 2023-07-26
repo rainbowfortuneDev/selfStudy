@@ -6,7 +6,7 @@ Studied the concept of React Hooks like useState, useEffect, useContext, useRef,
 
 ********2nd day*******
 - Studied about Storybook
-	what informaiton be involved in Storybook 
-	how can i boot development speed using Storybook
+	What information be involved in Storybook?
+	How can I boost development speed using Storybook?
 - String handling using Regular Expression in react
 	Form validation using RegExp 
