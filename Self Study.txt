@@ -1,4 +1,3 @@
-https://www.w3schools.com/react/react_hooks.asp
 ********1st day*******
 Studied the concept of React Hooks like useState, useEffect, useContext, useRef, useReducer, useCallback, useMemo, Custom Hooks.
 - the difference between them
@@ -10,3 +9,7 @@ Studied the concept of React Hooks like useState, useEffect, useContext, useRef,
 	How can I boost development speed using Storybook?
 - String handling using Regular Expression in react
 	Form validation using RegExp 
+
+********3rd day*******
+- Today, I didn't study a specific material.
+	In Guidewire project, The Backend API is not completed yet, so I configured Backend Server myself and implemented the Backend simulation.
